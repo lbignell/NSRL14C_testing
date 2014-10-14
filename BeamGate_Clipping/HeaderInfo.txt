@@ -1,0 +1,19 @@
+Beam Energy : Unknown
+Measurement Location : NSRL building (testing)
+Measurement Type : Debugging DAQ
+Sample Type : No Sample
+Comments : Ch1 and 2 Disconnected, Ch3 = IC, Ch4 = Beam Gate.
+BEAM ON
+Ch1 Range (V) : 0
+Ch1 Offset (V) : 0
+Ch2 Range (V) : 0
+Ch2 Offset (V) : 0
+Ch3 Range (V) : 0
+Ch3 Offset (V) : -0
+Ch4 Range (V) : 20
+Ch4 Offset (V) : 3
+Time per Record (s) : 1
+Acquisition Start Time (s) : -0
+Trigger Level (V) : 1
+
+*Some clipping of the IC signal is observed.
